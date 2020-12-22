@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page!
+
+I've been self hosting a Wordpress blog on EC2 since 2009 and it's time to sunset it. Some of the posts are actually worth saving so I've decided to move them to Github Pages for some free hosting! 
+
+## Keeping the example text below as temp markup examples 
 
 You can use the [editor on GitHub](https://github.com/samirjafferali/samirjafferali.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
